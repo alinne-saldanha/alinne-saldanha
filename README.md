@@ -18,11 +18,10 @@
 </div>
 
 <div align="center">
-
+   
 ![Snake animation](https://github.com/alinne-saldanha/alinne-saldanha/blob/output/github-contribution-grid-snake.svg)
-
+   
 </div>
-
 
 ## Latest posts:
 - [Listagem Pokemon](https://alinne-saldanha.github.io/projeto-listagem-pokemon/)
